@@ -32,5 +32,5 @@ dx3d::Window::Window():Base()
 
 dx3d::Window::~Window()
 {
-	int ok=199;
+	
 }
